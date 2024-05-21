@@ -37,6 +37,10 @@ Open a browser and copy paste the link that you get when executing the previous 
 
 Then you can use the Gradio user interface to record your speech in any language and then click Submit to generate the translated text into english.
 
+
+https://github.com/AlexandrePoisson/Text_and_Speech/assets/13329302/f1f90084-44c2-4661-a0aa-0e33107a0199
+
+
 ### Text to speech
 
 Open Text_to_speech.py file and edit the text and the timings
